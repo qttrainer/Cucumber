@@ -16,5 +16,10 @@ public   class Animal {
 	{
 		//this.name = name;
 	}
+	
+	public void showName(String name)
+	{
+		//this.name = name;
+	}
 
 }
